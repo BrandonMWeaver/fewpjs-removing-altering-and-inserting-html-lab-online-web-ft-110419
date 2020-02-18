@@ -1,1 +1,1 @@
-document.
+document.querySelector("main#main").remove();
